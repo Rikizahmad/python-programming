@@ -1,0 +1,18 @@
+tugas1 =float (input("masukan nilai tugas ke 1 anda"))
+tugas1 =float (input("masukan nilai tugas ke 1 anda"))
+tugas1 =float (input("masukan nilai tugas ke 1 anda"))
+
+b = 3
+
+all = tugas1 = tugas2 = tugas3
+
+avv = all / b
+
+if avv => 70
+  print("selamat kamu lulus")
+
+elif avv 50 dan 69
+  print("anda harus perbaikan")
+
+elif avv <50
+  print("anda tidak lulus")
